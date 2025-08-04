@@ -10,7 +10,7 @@ const App = () => {
 
       <button
         onClick={() => setShowModal(true)}
-        className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-md shadow-lg font-semibold text-lg transition duration-200 cursor-pointer"
+        className="px-10 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-md shadow-lg font-semibold text-lg transition duration-200 cursor-pointer"
       >
        About
       </button>
